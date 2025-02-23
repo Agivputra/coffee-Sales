@@ -1,4 +1,4 @@
-*Coffee Sales Analyst*
+# Coffee Sales Analyst
 
 This repository contains all the code and queries from the portfolio projects i develop.
 
